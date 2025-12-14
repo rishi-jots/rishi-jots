@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 I’m currently learning 3D modelling.
+ As curious, I always try to learn new thimgs.
+📫 How to reach me: rish.jots@gmail.com
 
 <!--
 **rishi-jots/rishi-jots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
