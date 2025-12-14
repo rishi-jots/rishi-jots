@@ -1,6 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning 3D modelling.
- As curious, I always try to learn new thimgs.
+ As curious, I always try to learn new things.
 📫 How to reach me: rish.jots@gmail.com
 
 <!--
